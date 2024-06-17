@@ -1,7 +1,7 @@
 {
   "name": "boids",
   "homepage": "https://Divyansh-04.github.io/Boids-deploy",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
